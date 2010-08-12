@@ -1,0 +1,7 @@
+--- 
+:test: shoulda
+:renderer: haml
+:orm: activerecord
+:script: jquery
+:stylesheet: sass
+:mock: none
